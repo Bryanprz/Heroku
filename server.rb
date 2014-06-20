@@ -5,7 +5,5 @@ get '/' do
 	send_file('public/home.html')
 end
 
-get '/contact.html' do
-	send_file('public/contact.html')
 end
 
