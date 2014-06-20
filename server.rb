@@ -5,5 +5,3 @@ get '/' do
 	send_file('public/home.html')
 end
 
-end
-
