@@ -345,3 +345,34 @@
           box-shadow: inset 0 1px 3px rgba(0, 0, 0, .05), 0 1px 0 rgba(255, 255, 255, .1);
 }
 /*# sourceMappingURL=bootstrap-theme.css.map */
+
+.masthead-lead {
+margin-bottom: .75rem;
+font-weight: 300;
+font-size: 1rem;
+color: #8a8a8a;
+}
+
+#box_container {
+  width: 40%;
+  padding-left: 10px;
+  float: right;
+} 
+
+.container-text {
+  font-size: 18px;
+}
+
+
+.masthead {
+  width: 25%;
+  padding: 3rem 2rem;
+}
+
+.masthead-title {
+margin-top: 0;
+margin-bottom: .75rem;
+font-size: 3rem;
+line-height: 1;
+color: #3a3a3a;
+}
