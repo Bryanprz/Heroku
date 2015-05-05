@@ -5,3 +5,6 @@ get '/' do
 	send_file('public/home.html')
 end
 
+get '/new' do
+  send_file('public/new.html')
+end
